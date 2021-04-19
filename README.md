@@ -1,0 +1,2 @@
+# MovieLens
+Our goal is to create a movie recommendation system using the MovieLens dataset and apply the lessons learned during *HarvardX's Data Science Professional Certificate program*. In this paper, we will predict movie ratings for users in a large dataset. We do this by training a linear model and generating predicted movie ratings, and then calculating the Root Mean Square Error (RMSE) of the predicted ratings versus the actual ratings. Our project goal is to be less than RMSE &lt; 0.86490.
